@@ -26,7 +26,7 @@ Memcached установлен и успешно запущен.
 
 ### Скриншот:
 
-![Memcached Status](https://github.com/Dun9Dev/8.02HW/blob/main/img/Screenshot_20250203_191543.png )
+![Memcached Status](https://github.com/Dun9Dev/11-02/blob/main/img/11-02.1.png)
 
 ---
 
@@ -40,7 +40,7 @@ Memcached установлен и успешно запущен.
 
 ### Скриншот:
 
-![Memcached TTL](https://github.com/Dun9Dev/8.02HW/blob/main/img/Screenshot_20250203_191645.png )
+![Memcached TTL](https://github.com/Dun9Dev/11-02/blob/main/img/Screenshot_1.png)
 
 ---
 
@@ -54,4 +54,4 @@ Memcached установлен и успешно запущен.
 
 ### Скриншот:
 
-![Redis Data](https://github.com/Dun9Dev/8.02HW/blob/main/img/Screenshot_20250203_191730.png )
+![Redis Data](https://github.com/Dun9Dev/11-02/blob/main/img/Screenshot_2.png)
